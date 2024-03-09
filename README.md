@@ -61,4 +61,8 @@ Tưới nước tự động khi độ ẩm đất thấp hoặc khi người d�
 ### Hiển Thị Dữ Liệu:
 
 Dữ liệu độ ẩm đất, ánh sáng, nhiệt độ và số lần phát hiện chuyển động được hiển thị trên LCD và Blynk.
- 
+
+## Tác Giả:
+
+Võ Long (@longvo92)
+Email: vtlong29@gmail.com
