@@ -28,7 +28,7 @@ Hệ thống có khả năng theo dõi nhiệt độ và điều chỉnh môi tr
 
 ### 5. Điều Khiển Mái Che
 
-Tự độn điều khiển mái che theo các điều kiện ngoại cảnh và thời gian.
+Tự động điều khiển mái che theo các điều kiện ngoại cảnh và thời gian.
 
 ### 6. Giao Diện Người Dùng Thân Thiện
 
